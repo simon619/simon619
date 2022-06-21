@@ -2,7 +2,7 @@
 - 👀 I’m interested in different algorithms, quantum computing, deep learning and different mathematical fields.
 - 🎮 My favourite programming language is python
 - 🌱 I’m currently learning quantum computing
-- 💞️ I’m looking to collaborate on currently nothing
+- 💞️ I love to work alone
 - 📫 How to reach me simonavi619@gmail.com, https://twitter.com/th351M0N and https://www.facebook.com/th351M0N
 
 <!---
