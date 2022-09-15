@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @simon619
-- 👀 I’m interested in different algorithms, quantum computing, encryption, number theory, deep learning and different mathematical fields.
+- 👀 I’m interested in different algorithms, quantum computing, encryption, number theory, artificial intelligence, deep learning and different mathematical fields.
 - 🎮 My favourite programming language is python
 - 🌱 I’m currently learning different algorithm, data structure and development tools
 - 💞️ I love to work alone
