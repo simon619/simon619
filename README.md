@@ -3,7 +3,7 @@
 - 🎮 My favourite programming language is python
 - 🌱 I’m currently learning new algorithms, data structures and development tools
 - 💞️ I love to work alone
-- 📫 How to reach me simonavi619@gmail.com, https://twitter.com/th351M0N and https://www.facebook.com/th351M0N
+- 📫 How to reach me https://twitter.com/th351M0N and https://www.facebook.com/th351M0N
 
 <!---
 simon619/simon619 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
