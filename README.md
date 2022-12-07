@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @simon619
+- 👋 Hi, I’m @simon619 aka th351M0N
 - 👀 I’m interested in different algorithms, quantum computing, encryption, number theory, artificial intelligence, deep learning and different mathematical fields.
 - 🎮 My favourite programming language is python
 - 🌱 I’m currently learning new algorithms, data structures and development tools
