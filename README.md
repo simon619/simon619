@@ -2,7 +2,6 @@
 - 👀 I’m interested in different algorithms, quantum computing, encryption, number theory, artificial intelligence, deep learning and different mathematical fields.
 - 🎮 My favourite programming language is python
 - 🌱 I’m currently learning new algorithms, data structures and development tools
-- 💞️ I love to work alone
 - 📫 How to reach me https://twitter.com/th351M0N and https://www.facebook.com/th351M0N
 
 <!---
